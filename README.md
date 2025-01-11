@@ -32,10 +32,9 @@
 ## 🌐 Conéctate conmigo
 
 <br>	
-<a target="_blank" href="matiasvallejocabezas@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://www.instagram.com/mat_vall_/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
+[![Gmail Badge](https://img.shields.io/badge/-matiasvallejocabezas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=matiasvallejocabezas@gmail.com)](matiasvallejocabezas@gmail.com)
+<a target="_blank" href="https://www.instagram.com/mat_vall_/"><img src="https://img.shields.io/badge/-instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 &emsp;
 
 
